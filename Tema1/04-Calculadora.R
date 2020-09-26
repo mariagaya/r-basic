@@ -30,6 +30,18 @@ factorial(5)
 
 choose(10,2)
 
+print(sqrt(2),10)
+
+round(sqrt(2),3)
+
+floor(sqrt(2))
+
+ceiling(sqrt(2))
+
+trunc(sqrt(2))
+
+sqrt(2)^2-2
+
 
 
 
